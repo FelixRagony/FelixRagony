@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FelixRagony
 - 👀 I’m interested in ... App Making for now
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python basic
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... E-mail on felixragony372@outlook.com
 
